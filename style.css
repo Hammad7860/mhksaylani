@@ -1,0 +1,43 @@
+@font-face{
+    font-family: Merriweather;
+    src: url('Merriweather-Regular.ttf');
+}
+*{
+    font-family: Merriweather;
+}
+.header{
+    background-color: aquamarine;
+    border-style: groove;
+}
+.name{
+    color: rgb(47, 255, 109);
+    text-shadow: 2px 2px rgb(0, 132, 255);
+    border-style: groove;
+   
+}
+
+.rollno{
+    color: rgb(255, 105, 248);
+    text-shadow: 2px 2px rgba(255, 8, 0, 0.651);
+    border-style: groove;
+    background-color: lavender;
+}
+
+.mobile{
+    color: rgba(120, 215, 244, 0.712);
+    text-shadow: 2px 2px rgb(225, 0, 255);
+    border-style: groove;
+    background-color: pink;
+}
+.sec1{
+    background-color:rgb(255, 244, 185);
+    
+}
+.exclusive{
+color: white;
+text-align: center;
+}
+.projects{
+    background-color: lavender;
+    padding-bottom: 30px;
+}

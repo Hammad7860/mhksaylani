@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'Merriweather';
+    src: url('Merriweather-Regular.ttf');
+}
+  /* Facebook */
+.fa-facebook-f {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter-square{
+    background: #55ACEE;
+    color: white;
+  }
+  /* youtube */
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  /* instagram */
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  /* whatsapp */
+  .fa-whatsapp {
+    background: #128835;
+    color: white;
+  }
+
+  .fa-phone,.fa-globe,.fa-envelope{
+      color: darkgreen;
+  }
+
+.soc1{
+    display: inline-block;
+    padding: 10px;
+    margin: auto;
+    border: hidden;
+}
+.line{
+    background-color: green;
+    display: block;
+    width: 70px;
+    height: 3px;
+}
+.header{
+    background-color: blue;
+    color: white;
+}
+.moto{
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    font-family: Merriweather;
+    margin-top: 10px;
+}
+
+.marquee{
+    background-color: blue;
+    color: greenyellow;
+    display: inline;
+}
+.intro{
+    color: green;
+    font-family: Merriweather;
+}
+.DUCTION{
+    color: blue;
+    font-family: Merriweather;
+}
+.INTRODUCTION{
+    font-family: Merriweather;
+    font-size: 10px;
+}
+.para1{
+    text-align: center;
+    padding: initial;
+    font-family: Merriweather;
+    
+}
+.counter{
+    font-family: Merriweather;
+    color: white;
+    padding: 40px;
+    
+}
+.Monthly{
+    color: lawngreen;
+}
+.countcontent{
+    align-content: center;
+}
+
+.Whatwe{
+    color: yellowgreen;
+    font-family: Merriweather;
+    font-size: 40px;
+}
+.doing{
+    color: blue;
+    font-family: Merriweather;
+    font-size: 40px;
+}
+.Mission{
+    font-family: Merriweather;
+}
+.projects{
+    color: blue;
+}
+.pics{
+    display: inline;
+    padding: 15px;
+    
+}
+.contact{
+    font-family: Merriweather;
+    color: grey;
+}
+.useful{
+    font-family: Merriweather;
+    color: white;
+}
+.soc2{
+    display: inline;
+    margin: auto;
+    padding: 2px;
+    border: hidden;
+}
+.end{
+    font-family: Merriweather;
+    color: white;
+    font-size: 12px;
+}
